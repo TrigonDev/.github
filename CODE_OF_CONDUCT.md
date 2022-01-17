@@ -5,7 +5,7 @@ These rules apply to all pull requests, issues, comments, and discussions for ev
 1. Do not try to impose your own beliefs on someone else.
 2. Do not critisize other's beliefes or make jokes about them.
 3. Don't debate (including but not limited to politics and religion). I like debating, but this is the wrong place.
-4. Don't be easily offended. Life is easiers (for you and everyone around) if you just let things go.
+4. Don't be easily offended. Life is easier (for you and everyone around) if you just let things go.
 5. Do not use rule #4 as an excuse to offend someone or as a response to someone being offended. If you offended someone, apologize.
 6. Don't try to enforce these rules (minimodding). That's the moderators' job.
 
