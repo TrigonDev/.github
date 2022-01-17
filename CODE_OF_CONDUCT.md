@@ -14,4 +14,4 @@ Punishments are up to the moderators. These are just a general guideline.
 2. Temporary ban.
 3. Really long temporary ban.
 4. Really *really* long temporary ban.
-5. 80 year "temporary" lifetime ban.
+5. 80 year "temporary" lifetime ban (jk).
