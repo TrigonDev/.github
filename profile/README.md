@@ -6,4 +6,4 @@ TrigonDev is an organization owned solely by [Circuit](https://github.com/Circui
  - [tanjun](https://github.com/FasterSpeeding/Tanjun), which is a command framework for hikari.
 
 
-If you need support, you can contact me `Circuit#3397` by **joining this server** discord.gg/dGAzZDaTS9. I don't accept friend requests.
+If you need support, you can contact me `Circuit#3397` by **joining this server** https://discord.gg/dGAzZDaTS9. I don't accept friend requests.
