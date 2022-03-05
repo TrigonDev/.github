@@ -1,4 +1,4 @@
-TrigonDev is an organization owned solely by [Circuit](https://github.com/CircuitSacul) (though there may be other contributors to projects). This organization primarily contains Discord bots and libraries for them, using the following external tools and libraries:
+TrigonDev is an organization owned solely by [CircuitSacul](https://github.com/CircuitSacul) (though there may be other contributors to projects). This organization primarily contains Discord bots and libraries for them, using the following external tools and libraries:
  - [python](https://python.org), because it's just the best programming language,
  - [poetry](https://python-poetry.org/) for package management (virtual environments, dependency resolver, ditch setuptools, etc.),
  - [PostgreSQL](https://www.postgresql.org) for the database backend,
