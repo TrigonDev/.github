@@ -6,4 +6,4 @@ TrigonDev is an organization owned solely by [Circuit](https://github.com/Circui
  - [hikari-crescent](https://github.com/magpie-dev/hikari-crescent), which is a command handler for Hikari.
 
 
-If you need support, you can contact me `Circuit#3397` by **joining this server** https://discord.gg/dGAzZDaTS9. I don't accept friend requests.
+If you need support, you can contact me `CircuitSacul#3397` by **joining this server** https://discord.gg/dGAzZDaTS9. I don't accept friend requests.
