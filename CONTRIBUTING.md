@@ -17,7 +17,7 @@ More info can be found at [poetry's website](https://python-poetry.org).
 ## General Style
  - CI must pass. `nox` will be run automatically for new PRs, but it will be easier for you to run it yourself. Just run `nox` to run the pipeline.
  - Code should have static type hints (don't just use `Any` for everything). If a function or method returns `None` (either with `return None` or no return at all), that function should still be typed to return None (otherwise mypy will assume Any).
- - Avoid using `# pragma: no cover`, `# noqa`, and `# type: ignore` unless you have a very good reason for it.
+ - Avoid using `# pragma: no cover`, `# noqa`, and `# type: ignore` unless you have a very good reason for it. Prefer `typing.cast` over `# type: ignore` where possible.
 
 ## Naming
 Functions, methods, classes, variables (constants and properties), and classvars that are meant for public use should have docstrings (use `google` style for functions & methods). Non-public API should start with `_` (`_some_function`).
