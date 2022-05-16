@@ -1,5 +1,5 @@
 # Contribution Guidelines
-These guidelines must be followed before any pull request will be accepted. If your not sure about something, just do your best.
+These guidelines must be followed before any pull request will be accepted. If you're not sure about something, just do your best.
 
 ## Basics
 Libraries and repos in TrigonDev use `poetry` as a package manager. It's pretty straightforward:
